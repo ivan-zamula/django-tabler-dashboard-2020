@@ -1,4 +1,6 @@
-# [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
+# Django Tabler Dashboard (Fork, 2020)
+
+[Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
 
