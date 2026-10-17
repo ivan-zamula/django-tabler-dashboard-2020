@@ -22,4 +22,16 @@ venv
 package-lock.json
 
 staticfiles/*
-!staticfiles/.gitkeep 
+!staticfiles/.gitkeep
+
+# Local environments, editor files and generated output
+.idea/
+*.iml
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+.env*
+!env.example
